@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Video Conference</string>
+  <string name="login_key">login</string>
+  <string name="device_id">Device id:</string>
+  <string name="enter_device_id_to_call">Enter device id to call</string>
+  <string name="call">Call</string>
+</resources>
